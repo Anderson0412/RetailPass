@@ -1,6 +1,6 @@
 # RetailPass: trazabilidad de garantías para fabricantes y consumidores
 
-**Propuesto por:** Anderson Rave Jiménez  
+**Propuesto por:** Anderson Rave Jimenez  
 **Usuario operativo principal:** equipo de garantías o servicio posventa del fabricante  
 **Usuario final beneficiario:** consumidor  
 **Patrocinador e implementador principal:** fabricante
